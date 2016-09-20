@@ -22,6 +22,9 @@ var_dump($obj1) ;
 echo 'hello world';
 
 echo "我就是测试一下在phpstorm里面使用GIT push";
+echo 'hello world1';
+echo 'hello world2';
+echo 'hello world3';
 
 
 ?>
